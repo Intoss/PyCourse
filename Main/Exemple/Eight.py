@@ -1,5 +1,3 @@
-import cmath
-
 input_t = input("Введите температуру и размерность через пробел ")
 split_t = input_t.split(" ")
 if len(split_t) == 2:
